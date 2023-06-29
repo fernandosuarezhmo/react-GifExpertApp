@@ -1,7 +1,5 @@
 # GifExpertApp
 
-# React GIF Search App
-
 This is a React application that allows you to search and display GIFs using the GIPHY API. Each search generates a grid of 10 GIFs in their original size. The app utilizes custom hooks for fetching the GIF data.
 
 ## Features
